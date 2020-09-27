@@ -1,0 +1,7 @@
+C:\Users\Nacho\source\repos\Ejercicio 26\Main\bin\Debug\Main.exe.config
+C:\Users\Nacho\source\repos\Ejercicio 26\Main\bin\Debug\Main.exe
+C:\Users\Nacho\source\repos\Ejercicio 26\Main\bin\Debug\Main.pdb
+C:\Users\Nacho\source\repos\Ejercicio 26\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\Ejercicio 26\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Ejercicio 26\Main\obj\Debug\Main.exe
+C:\Users\Nacho\source\repos\Ejercicio 26\Main\obj\Debug\Main.pdb

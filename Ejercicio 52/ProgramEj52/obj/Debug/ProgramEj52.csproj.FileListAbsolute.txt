@@ -1,0 +1,10 @@
+C:\Users\Nacho\source\repos\Ejercicio 52\ProgramEj52\bin\Debug\ProgramEj52.exe.config
+C:\Users\Nacho\source\repos\Ejercicio 52\ProgramEj52\bin\Debug\ProgramEj52.exe
+C:\Users\Nacho\source\repos\Ejercicio 52\ProgramEj52\bin\Debug\ProgramEj52.pdb
+C:\Users\Nacho\source\repos\Ejercicio 52\ProgramEj52\obj\Debug\ProgramEj52.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Ejercicio 52\ProgramEj52\obj\Debug\ProgramEj52.exe
+C:\Users\Nacho\source\repos\Ejercicio 52\ProgramEj52\obj\Debug\ProgramEj52.pdb
+C:\Users\Nacho\source\repos\Ejercicio 52\ProgramEj52\bin\Debug\Entidades.dll
+C:\Users\Nacho\source\repos\Ejercicio 52\ProgramEj52\bin\Debug\Entidades.pdb
+C:\Users\Nacho\source\repos\Ejercicio 52\ProgramEj52\obj\Debug\ProgramEj52.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\Ejercicio 52\ProgramEj52\obj\Debug\ProgramEj52.csproj.CopyComplete

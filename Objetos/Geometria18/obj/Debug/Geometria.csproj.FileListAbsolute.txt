@@ -1,0 +1,6 @@
+C:\Users\Nacho\source\repos\Objetos\Geometria\bin\Debug\Geometria.dll
+C:\Users\Nacho\source\repos\Objetos\Geometria\bin\Debug\Geometria.pdb
+C:\Users\Nacho\source\repos\Objetos\Geometria\obj\Debug\Geometria.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\Objetos\Geometria\obj\Debug\Geometria.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Objetos\Geometria\obj\Debug\Geometria.dll
+C:\Users\Nacho\source\repos\Objetos\Geometria\obj\Debug\Geometria.pdb

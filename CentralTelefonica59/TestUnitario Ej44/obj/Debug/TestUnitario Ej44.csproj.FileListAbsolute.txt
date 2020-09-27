@@ -1,0 +1,19 @@
+C:\Users\Nacho\source\repos\CentralTelefonica44\TestUnitario Ej44\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Nacho\source\repos\CentralTelefonica44\TestUnitario Ej44\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Nacho\source\repos\CentralTelefonica44\TestUnitario Ej44\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Nacho\source\repos\CentralTelefonica44\TestUnitario Ej44\bin\Debug\TestUnitario Ej44.dll
+C:\Users\Nacho\source\repos\CentralTelefonica44\TestUnitario Ej44\bin\Debug\TestUnitario Ej44.pdb
+C:\Users\Nacho\source\repos\CentralTelefonica44\TestUnitario Ej44\bin\Debug\CentralitaHerencia.dll
+C:\Users\Nacho\source\repos\CentralTelefonica44\TestUnitario Ej44\bin\Debug\CentralTelefonicaForm.exe
+C:\Users\Nacho\source\repos\CentralTelefonica44\TestUnitario Ej44\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Nacho\source\repos\CentralTelefonica44\TestUnitario Ej44\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Nacho\source\repos\CentralTelefonica44\TestUnitario Ej44\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Nacho\source\repos\CentralTelefonica44\TestUnitario Ej44\bin\Debug\CentralTelefonicaForm.pdb
+C:\Users\Nacho\source\repos\CentralTelefonica44\TestUnitario Ej44\bin\Debug\CentralTelefonicaForm.exe.config
+C:\Users\Nacho\source\repos\CentralTelefonica44\TestUnitario Ej44\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Nacho\source\repos\CentralTelefonica44\TestUnitario Ej44\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Nacho\source\repos\CentralTelefonica44\TestUnitario Ej44\obj\Debug\TestUnitario Ej44.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\CentralTelefonica44\TestUnitario Ej44\obj\Debug\TestUnitario Ej44.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\CentralTelefonica44\TestUnitario Ej44\obj\Debug\TestUnitario Ej44.csproj.CopyComplete
+C:\Users\Nacho\source\repos\CentralTelefonica44\TestUnitario Ej44\obj\Debug\TestUnitario Ej44.dll
+C:\Users\Nacho\source\repos\CentralTelefonica44\TestUnitario Ej44\obj\Debug\TestUnitario Ej44.pdb

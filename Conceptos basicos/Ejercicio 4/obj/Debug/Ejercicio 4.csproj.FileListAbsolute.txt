@@ -1,0 +1,14 @@
+C:\Users\Nacho\source\repos\Ejercicios\Ejercicio 4\obj\Debug\Ejercicio 4.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\Ejercicios\Ejercicio 4\obj\Debug\Ejercicio 4.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Ejercicios\Ejercicio 4\bin\Debug\Ejercicio 4.exe.config
+C:\Users\Nacho\source\repos\Ejercicios\Ejercicio 4\bin\Debug\Ejercicio 4.exe
+C:\Users\Nacho\source\repos\Ejercicios\Ejercicio 4\bin\Debug\Ejercicio 4.pdb
+C:\Users\Nacho\source\repos\Ejercicios\Ejercicio 4\obj\Debug\Ejercicio 4.exe
+C:\Users\Nacho\source\repos\Ejercicios\Ejercicio 4\obj\Debug\Ejercicio 4.pdb
+C:\Users\Nacho\source\repos\Conceptos basicos\Ejercicio 4\bin\Debug\Ejercicio 4.exe.config
+C:\Users\Nacho\source\repos\Conceptos basicos\Ejercicio 4\bin\Debug\Ejercicio 4.exe
+C:\Users\Nacho\source\repos\Conceptos basicos\Ejercicio 4\bin\Debug\Ejercicio 4.pdb
+C:\Users\Nacho\source\repos\Conceptos basicos\Ejercicio 4\obj\Debug\Ejercicio 4.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\Conceptos basicos\Ejercicio 4\obj\Debug\Ejercicio 4.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Conceptos basicos\Ejercicio 4\obj\Debug\Ejercicio 4.exe
+C:\Users\Nacho\source\repos\Conceptos basicos\Ejercicio 4\obj\Debug\Ejercicio 4.pdb

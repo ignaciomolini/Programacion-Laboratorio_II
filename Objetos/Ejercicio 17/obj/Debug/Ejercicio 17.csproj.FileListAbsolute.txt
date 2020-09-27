@@ -1,0 +1,10 @@
+C:\Users\Nacho\source\repos\Objetos\Ejercicio 17\bin\Debug\Ejercicio 17.exe.config
+C:\Users\Nacho\source\repos\Objetos\Ejercicio 17\bin\Debug\Ejercicio 17.exe
+C:\Users\Nacho\source\repos\Objetos\Ejercicio 17\bin\Debug\Ejercicio 17.pdb
+C:\Users\Nacho\source\repos\Objetos\Ejercicio 17\bin\Debug\Entidades17.dll
+C:\Users\Nacho\source\repos\Objetos\Ejercicio 17\bin\Debug\Entidades17.pdb
+C:\Users\Nacho\source\repos\Objetos\Ejercicio 17\obj\Debug\Ejercicio 17.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\Objetos\Ejercicio 17\obj\Debug\Ejercicio 17.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Objetos\Ejercicio 17\obj\Debug\Ejercicio 17.csproj.CopyComplete
+C:\Users\Nacho\source\repos\Objetos\Ejercicio 17\obj\Debug\Ejercicio 17.exe
+C:\Users\Nacho\source\repos\Objetos\Ejercicio 17\obj\Debug\Ejercicio 17.pdb

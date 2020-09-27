@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaDeSQL", "PruebaDeSQL\PruebaDeSQL.csproj", "{666F7301-003B-44E6-94CE-C5158BD03984}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaDeSQL2", "PruebaDeSQL2\PruebaDeSQL2.csproj", "{E8FC3323-7327-4FEF-8AAF-60018327EE6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{666F7301-003B-44E6-94CE-C5158BD03984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{666F7301-003B-44E6-94CE-C5158BD03984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{666F7301-003B-44E6-94CE-C5158BD03984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{666F7301-003B-44E6-94CE-C5158BD03984}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8FC3323-7327-4FEF-8AAF-60018327EE6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8FC3323-7327-4FEF-8AAF-60018327EE6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8FC3323-7327-4FEF-8AAF-60018327EE6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8FC3323-7327-4FEF-8AAF-60018327EE6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB967E29-A83E-4BC0-B741-8518A2DBD488}
+	EndGlobalSection
+EndGlobal

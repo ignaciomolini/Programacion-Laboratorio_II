@@ -1,0 +1,10 @@
+C:\Users\Nacho\source\repos\Ejercicio 50\Ej 50\bin\Debug\Ej 50.exe.config
+C:\Users\Nacho\source\repos\Ejercicio 50\Ej 50\bin\Debug\Ej 50.exe
+C:\Users\Nacho\source\repos\Ejercicio 50\Ej 50\bin\Debug\Ej 50.pdb
+C:\Users\Nacho\source\repos\Ejercicio 50\Ej 50\bin\Debug\Entidades.dll
+C:\Users\Nacho\source\repos\Ejercicio 50\Ej 50\bin\Debug\Entidades.pdb
+C:\Users\Nacho\source\repos\Ejercicio 50\Ej 50\obj\Debug\Ej 50.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\Ejercicio 50\Ej 50\obj\Debug\Ej 50.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Ejercicio 50\Ej 50\obj\Debug\Ej 50.csproj.CopyComplete
+C:\Users\Nacho\source\repos\Ejercicio 50\Ej 50\obj\Debug\Ej 50.exe
+C:\Users\Nacho\source\repos\Ejercicio 50\Ej 50\obj\Debug\Ej 50.pdb

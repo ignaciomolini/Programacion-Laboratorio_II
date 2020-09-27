@@ -1,0 +1,10 @@
+C:\Users\Nacho\source\repos\Ejercicio 64\Consola\bin\Debug\Consola.exe.config
+C:\Users\Nacho\source\repos\Ejercicio 64\Consola\bin\Debug\Consola.exe
+C:\Users\Nacho\source\repos\Ejercicio 64\Consola\bin\Debug\Consola.pdb
+C:\Users\Nacho\source\repos\Ejercicio 64\Consola\bin\Debug\Entidades.dll
+C:\Users\Nacho\source\repos\Ejercicio 64\Consola\bin\Debug\Entidades.pdb
+C:\Users\Nacho\source\repos\Ejercicio 64\Consola\obj\Debug\Consola.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\Ejercicio 64\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Ejercicio 64\Consola\obj\Debug\Consola.csproj.CopyComplete
+C:\Users\Nacho\source\repos\Ejercicio 64\Consola\obj\Debug\Consola.exe
+C:\Users\Nacho\source\repos\Ejercicio 64\Consola\obj\Debug\Consola.pdb

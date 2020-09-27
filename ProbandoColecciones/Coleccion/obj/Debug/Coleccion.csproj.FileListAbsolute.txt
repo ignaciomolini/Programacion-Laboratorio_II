@@ -1,0 +1,10 @@
+C:\Users\Nacho\source\repos\ProbandoColecciones\Coleccion\bin\Debug\Coleccion.exe.config
+C:\Users\Nacho\source\repos\ProbandoColecciones\Coleccion\bin\Debug\Coleccion.exe
+C:\Users\Nacho\source\repos\ProbandoColecciones\Coleccion\bin\Debug\Coleccion.pdb
+C:\Users\Nacho\source\repos\ProbandoColecciones\Coleccion\obj\Debug\Coleccion.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\ProbandoColecciones\Coleccion\obj\Debug\Coleccion.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\ProbandoColecciones\Coleccion\obj\Debug\Coleccion.exe
+C:\Users\Nacho\source\repos\ProbandoColecciones\Coleccion\obj\Debug\Coleccion.pdb
+C:\Users\Nacho\source\repos\ProbandoColecciones\Coleccion\bin\Debug\ClassLibrary1.dll
+C:\Users\Nacho\source\repos\ProbandoColecciones\Coleccion\bin\Debug\ClassLibrary1.pdb
+C:\Users\Nacho\source\repos\ProbandoColecciones\Coleccion\obj\Debug\Coleccion.csproj.CopyComplete

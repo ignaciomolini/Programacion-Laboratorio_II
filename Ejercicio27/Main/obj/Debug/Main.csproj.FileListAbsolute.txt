@@ -1,0 +1,14 @@
+C:\Users\Nacho\source\repos\Main\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\Main\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Main\Main\bin\Debug\Main.exe.config
+C:\Users\Nacho\source\repos\Main\Main\bin\Debug\Main.exe
+C:\Users\Nacho\source\repos\Main\Main\bin\Debug\Main.pdb
+C:\Users\Nacho\source\repos\Main\Main\obj\Debug\Main.exe
+C:\Users\Nacho\source\repos\Main\Main\obj\Debug\Main.pdb
+C:\Users\Nacho\source\repos\Ejercicio27\Main\bin\Debug\Main.exe.config
+C:\Users\Nacho\source\repos\Ejercicio27\Main\bin\Debug\Main.exe
+C:\Users\Nacho\source\repos\Ejercicio27\Main\bin\Debug\Main.pdb
+C:\Users\Nacho\source\repos\Ejercicio27\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\Ejercicio27\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Ejercicio27\Main\obj\Debug\Main.exe
+C:\Users\Nacho\source\repos\Ejercicio27\Main\obj\Debug\Main.pdb

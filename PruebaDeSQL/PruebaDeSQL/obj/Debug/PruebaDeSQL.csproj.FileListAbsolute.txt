@@ -1,0 +1,10 @@
+C:\Users\Nacho\source\repos\PruebaDeSQL\PruebaDeSQL\bin\Debug\PruebaDeSQL.exe.config
+C:\Users\Nacho\source\repos\PruebaDeSQL\PruebaDeSQL\bin\Debug\PruebaDeSQL.exe
+C:\Users\Nacho\source\repos\PruebaDeSQL\PruebaDeSQL\bin\Debug\PruebaDeSQL.pdb
+C:\Users\Nacho\source\repos\PruebaDeSQL\PruebaDeSQL\obj\Debug\PruebaDeSQL.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\PruebaDeSQL\PruebaDeSQL\obj\Debug\PruebaDeSQL.Properties.Resources.resources
+C:\Users\Nacho\source\repos\PruebaDeSQL\PruebaDeSQL\obj\Debug\PruebaDeSQL.csproj.GenerateResource.cache
+C:\Users\Nacho\source\repos\PruebaDeSQL\PruebaDeSQL\obj\Debug\PruebaDeSQL.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\PruebaDeSQL\PruebaDeSQL\obj\Debug\PruebaDeSQL.exe
+C:\Users\Nacho\source\repos\PruebaDeSQL\PruebaDeSQL\obj\Debug\PruebaDeSQL.pdb
+C:\Users\Nacho\source\repos\PruebaDeSQL\PruebaDeSQL\obj\Debug\PruebaDeSQL.FormSql.resources

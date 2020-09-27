@@ -1,0 +1,6 @@
+C:\Users\Nacho\source\repos\Ejercicio 19\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\Nacho\source\repos\Ejercicio 19\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Nacho\source\repos\Ejercicio 19\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\Ejercicio 19\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Ejercicio 19\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\Nacho\source\repos\Ejercicio 19\Biblioteca\obj\Debug\Biblioteca.pdb

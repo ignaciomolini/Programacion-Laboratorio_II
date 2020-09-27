@@ -1,0 +1,6 @@
+C:\Users\Nacho\source\repos\Ejercicio 48\Entidades\bin\Debug\Entidades.dll
+C:\Users\Nacho\source\repos\Ejercicio 48\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Nacho\source\repos\Ejercicio 48\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\Ejercicio 48\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Ejercicio 48\Entidades\obj\Debug\Entidades.dll
+C:\Users\Nacho\source\repos\Ejercicio 48\Entidades\obj\Debug\Entidades.pdb

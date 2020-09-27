@@ -1,0 +1,14 @@
+C:\Users\Nacho\source\repos\Ejercicios\Ejercicio 7\obj\Debug\Ejercicio 7.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\Ejercicios\Ejercicio 7\obj\Debug\Ejercicio 7.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Ejercicios\Ejercicio 7\bin\Debug\Ejercicio 7.exe.config
+C:\Users\Nacho\source\repos\Ejercicios\Ejercicio 7\bin\Debug\Ejercicio 7.exe
+C:\Users\Nacho\source\repos\Ejercicios\Ejercicio 7\bin\Debug\Ejercicio 7.pdb
+C:\Users\Nacho\source\repos\Ejercicios\Ejercicio 7\obj\Debug\Ejercicio 7.exe
+C:\Users\Nacho\source\repos\Ejercicios\Ejercicio 7\obj\Debug\Ejercicio 7.pdb
+C:\Users\Nacho\source\repos\Conceptos basicos\Ejercicio 7\bin\Debug\Ejercicio 7.exe.config
+C:\Users\Nacho\source\repos\Conceptos basicos\Ejercicio 7\bin\Debug\Ejercicio 7.exe
+C:\Users\Nacho\source\repos\Conceptos basicos\Ejercicio 7\bin\Debug\Ejercicio 7.pdb
+C:\Users\Nacho\source\repos\Conceptos basicos\Ejercicio 7\obj\Debug\Ejercicio 7.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\Conceptos basicos\Ejercicio 7\obj\Debug\Ejercicio 7.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Conceptos basicos\Ejercicio 7\obj\Debug\Ejercicio 7.exe
+C:\Users\Nacho\source\repos\Conceptos basicos\Ejercicio 7\obj\Debug\Ejercicio 7.pdb

@@ -1,0 +1,10 @@
+C:\Users\Nacho\source\repos\Ejercicio 57\Program57\bin\Debug\Program57.exe.config
+C:\Users\Nacho\source\repos\Ejercicio 57\Program57\bin\Debug\Program57.exe
+C:\Users\Nacho\source\repos\Ejercicio 57\Program57\bin\Debug\Program57.pdb
+C:\Users\Nacho\source\repos\Ejercicio 57\Program57\bin\Debug\Entidades.dll
+C:\Users\Nacho\source\repos\Ejercicio 57\Program57\bin\Debug\Entidades.pdb
+C:\Users\Nacho\source\repos\Ejercicio 57\Program57\obj\Debug\Program57.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\Ejercicio 57\Program57\obj\Debug\Program57.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Ejercicio 57\Program57\obj\Debug\Program57.csproj.CopyComplete
+C:\Users\Nacho\source\repos\Ejercicio 57\Program57\obj\Debug\Program57.exe
+C:\Users\Nacho\source\repos\Ejercicio 57\Program57\obj\Debug\Program57.pdb

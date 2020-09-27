@@ -1,0 +1,3 @@
+OtraClase metodo de instancia.
+MiClase 2do constructor de instancia.
+Intento de dividir por cero.

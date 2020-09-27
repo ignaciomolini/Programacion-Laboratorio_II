@@ -1,0 +1,6 @@
+C:\Users\Nacho\source\repos\Objetos\Entidades17\bin\Debug\Entidades17.dll
+C:\Users\Nacho\source\repos\Objetos\Entidades17\bin\Debug\Entidades17.pdb
+C:\Users\Nacho\source\repos\Objetos\Entidades17\obj\Debug\Entidades17.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\Objetos\Entidades17\obj\Debug\Entidades17.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Objetos\Entidades17\obj\Debug\Entidades17.dll
+C:\Users\Nacho\source\repos\Objetos\Entidades17\obj\Debug\Entidades17.pdb

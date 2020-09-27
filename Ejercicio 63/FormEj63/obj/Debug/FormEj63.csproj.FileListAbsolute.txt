@@ -1,0 +1,10 @@
+C:\Users\Nacho\source\repos\Ejercicio 63\FormEj63\bin\Debug\FormEj63.exe.config
+C:\Users\Nacho\source\repos\Ejercicio 63\FormEj63\bin\Debug\FormEj63.exe
+C:\Users\Nacho\source\repos\Ejercicio 63\FormEj63\bin\Debug\FormEj63.pdb
+C:\Users\Nacho\source\repos\Ejercicio 63\FormEj63\obj\Debug\FormEj63.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\Ejercicio 63\FormEj63\obj\Debug\FormEj63.Form.resources
+C:\Users\Nacho\source\repos\Ejercicio 63\FormEj63\obj\Debug\FormEj63.Properties.Resources.resources
+C:\Users\Nacho\source\repos\Ejercicio 63\FormEj63\obj\Debug\FormEj63.csproj.GenerateResource.cache
+C:\Users\Nacho\source\repos\Ejercicio 63\FormEj63\obj\Debug\FormEj63.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Ejercicio 63\FormEj63\obj\Debug\FormEj63.exe
+C:\Users\Nacho\source\repos\Ejercicio 63\FormEj63\obj\Debug\FormEj63.pdb

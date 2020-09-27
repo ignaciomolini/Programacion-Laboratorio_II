@@ -1,0 +1,13 @@
+C:\Users\Nacho\source\repos\Ejercicio 23\ConversorMoneda\bin\Debug\ConversorMoneda.exe.config
+C:\Users\Nacho\source\repos\Ejercicio 23\ConversorMoneda\bin\Debug\ConversorMoneda.exe
+C:\Users\Nacho\source\repos\Ejercicio 23\ConversorMoneda\bin\Debug\ConversorMoneda.pdb
+C:\Users\Nacho\source\repos\Ejercicio 23\ConversorMoneda\obj\Debug\ConversorMoneda.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\Ejercicio 23\ConversorMoneda\obj\Debug\ConversorMoneda.FormMoneda.resources
+C:\Users\Nacho\source\repos\Ejercicio 23\ConversorMoneda\obj\Debug\ConversorMoneda.Properties.Resources.resources
+C:\Users\Nacho\source\repos\Ejercicio 23\ConversorMoneda\obj\Debug\ConversorMoneda.csproj.GenerateResource.cache
+C:\Users\Nacho\source\repos\Ejercicio 23\ConversorMoneda\obj\Debug\ConversorMoneda.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Ejercicio 23\ConversorMoneda\obj\Debug\ConversorMoneda.exe
+C:\Users\Nacho\source\repos\Ejercicio 23\ConversorMoneda\obj\Debug\ConversorMoneda.pdb
+C:\Users\Nacho\source\repos\Ejercicio 23\ConversorMoneda\bin\Debug\Billetes.dll
+C:\Users\Nacho\source\repos\Ejercicio 23\ConversorMoneda\bin\Debug\Billetes.pdb
+C:\Users\Nacho\source\repos\Ejercicio 23\ConversorMoneda\obj\Debug\ConversorMoneda.csproj.CopyComplete

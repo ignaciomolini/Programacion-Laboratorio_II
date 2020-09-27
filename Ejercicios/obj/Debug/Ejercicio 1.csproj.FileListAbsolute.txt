@@ -1,0 +1,6 @@
+C:\Users\Nacho\source\repos\Ejercicios\Ejercicios\bin\Debug\Ejercicios.exe.config
+C:\Users\Nacho\source\repos\Ejercicios\Ejercicios\bin\Debug\Ejercicios.exe
+C:\Users\Nacho\source\repos\Ejercicios\Ejercicios\bin\Debug\Ejercicios.pdb
+C:\Users\Nacho\source\repos\Ejercicios\Ejercicios\obj\Debug\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Ejercicios\Ejercicios\obj\Debug\Ejercicios.exe
+C:\Users\Nacho\source\repos\Ejercicios\Ejercicios\obj\Debug\Ejercicios.pdb

@@ -1,0 +1,10 @@
+holaaa
+
+documentación
+
+ñññññ 
+
+
+muesta las tildes y la ñ con UTF8Encoding.Default
+
+

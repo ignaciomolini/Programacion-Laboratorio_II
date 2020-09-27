@@ -1,0 +1,15 @@
+C:\Users\Nacho\source\repos\2Parcial.Molini.Ignacio.2C\ClinicaApp\bin\Debug\ClinicaApp.exe.config
+C:\Users\Nacho\source\repos\2Parcial.Molini.Ignacio.2C\ClinicaApp\bin\Debug\ClinicaApp.exe
+C:\Users\Nacho\source\repos\2Parcial.Molini.Ignacio.2C\ClinicaApp\bin\Debug\ClinicaApp.pdb
+C:\Users\Nacho\source\repos\2Parcial.Molini.Ignacio.2C\ClinicaApp\obj\Debug\ClinicaApp.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\2Parcial.Molini.Ignacio.2C\ClinicaApp\obj\Debug\ClinicaApp.FormTurnos.resources
+C:\Users\Nacho\source\repos\2Parcial.Molini.Ignacio.2C\ClinicaApp\obj\Debug\ClinicaApp.Properties.Resources.resources
+C:\Users\Nacho\source\repos\2Parcial.Molini.Ignacio.2C\ClinicaApp\obj\Debug\ClinicaApp.csproj.GenerateResource.cache
+C:\Users\Nacho\source\repos\2Parcial.Molini.Ignacio.2C\ClinicaApp\obj\Debug\ClinicaApp.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\2Parcial.Molini.Ignacio.2C\ClinicaApp\obj\Debug\ClinicaApp.exe
+C:\Users\Nacho\source\repos\2Parcial.Molini.Ignacio.2C\ClinicaApp\obj\Debug\ClinicaApp.pdb
+C:\Users\Nacho\source\repos\2Parcial.Molini.Ignacio.2C\ClinicaApp\bin\Debug\Entidades.dll
+C:\Users\Nacho\source\repos\2Parcial.Molini.Ignacio.2C\ClinicaApp\bin\Debug\Entidades.pdb
+C:\Users\Nacho\source\repos\2Parcial.Molini.Ignacio.2C\ClinicaApp\obj\Debug\ClinicaApp.csproj.CopyComplete
+C:\Users\Nacho\source\repos\2Parcial.Molini.Ignacio.2C\ClinicaApp\obj\Debug\ClinicaApp.FormPacienteActual.resources
+C:\Users\Nacho\source\repos\2Parcial.Molini.Ignacio.2C\ClinicaApp\obj\Debug\ClinicaApp.FormPacienteProximo.resources

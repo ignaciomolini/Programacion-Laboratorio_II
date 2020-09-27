@@ -1,0 +1,13 @@
+C:\Users\Nacho\source\repos\Ejercicio 61\WForm61\bin\Debug\WForm61.exe.config
+C:\Users\Nacho\source\repos\Ejercicio 61\WForm61\bin\Debug\WForm61.exe
+C:\Users\Nacho\source\repos\Ejercicio 61\WForm61\bin\Debug\WForm61.pdb
+C:\Users\Nacho\source\repos\Ejercicio 61\WForm61\obj\Debug\WForm61.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\Ejercicio 61\WForm61\obj\Debug\WForm61.Properties.Resources.resources
+C:\Users\Nacho\source\repos\Ejercicio 61\WForm61\obj\Debug\WForm61.csproj.GenerateResource.cache
+C:\Users\Nacho\source\repos\Ejercicio 61\WForm61\obj\Debug\WForm61.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Ejercicio 61\WForm61\obj\Debug\WForm61.exe
+C:\Users\Nacho\source\repos\Ejercicio 61\WForm61\obj\Debug\WForm61.pdb
+C:\Users\Nacho\source\repos\Ejercicio 61\WForm61\bin\Debug\Entidades.dll
+C:\Users\Nacho\source\repos\Ejercicio 61\WForm61\bin\Debug\Entidades.pdb
+C:\Users\Nacho\source\repos\Ejercicio 61\WForm61\obj\Debug\WForm61.Form61.resources
+C:\Users\Nacho\source\repos\Ejercicio 61\WForm61\obj\Debug\WForm61.csproj.CopyComplete

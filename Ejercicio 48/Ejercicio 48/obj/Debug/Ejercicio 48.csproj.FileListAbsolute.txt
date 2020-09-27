@@ -1,0 +1,10 @@
+C:\Users\Nacho\source\repos\Ejercicio 48\Ejercicio 48\bin\Debug\Ejercicio 48.exe.config
+C:\Users\Nacho\source\repos\Ejercicio 48\Ejercicio 48\bin\Debug\Ejercicio 48.exe
+C:\Users\Nacho\source\repos\Ejercicio 48\Ejercicio 48\bin\Debug\Ejercicio 48.pdb
+C:\Users\Nacho\source\repos\Ejercicio 48\Ejercicio 48\bin\Debug\Entidades.dll
+C:\Users\Nacho\source\repos\Ejercicio 48\Ejercicio 48\bin\Debug\Entidades.pdb
+C:\Users\Nacho\source\repos\Ejercicio 48\Ejercicio 48\obj\Debug\Ejercicio 48.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\Ejercicio 48\Ejercicio 48\obj\Debug\Ejercicio 48.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Ejercicio 48\Ejercicio 48\obj\Debug\Ejercicio 48.csproj.CopyComplete
+C:\Users\Nacho\source\repos\Ejercicio 48\Ejercicio 48\obj\Debug\Ejercicio 48.exe
+C:\Users\Nacho\source\repos\Ejercicio 48\Ejercicio 48\obj\Debug\Ejercicio 48.pdb

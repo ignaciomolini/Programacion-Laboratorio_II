@@ -1,0 +1,10 @@
+C:\Users\Nacho\source\repos\Objetos\Ejercicio 18\obj\Debug\Ejercicio 18.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\Objetos\Ejercicio 18\obj\Debug\Ejercicio 18.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Objetos\Ejercicio 18\bin\Debug\Ejercicio 18.exe.config
+C:\Users\Nacho\source\repos\Objetos\Ejercicio 18\bin\Debug\Ejercicio 18.exe
+C:\Users\Nacho\source\repos\Objetos\Ejercicio 18\bin\Debug\Ejercicio 18.pdb
+C:\Users\Nacho\source\repos\Objetos\Ejercicio 18\bin\Debug\Geometria.dll
+C:\Users\Nacho\source\repos\Objetos\Ejercicio 18\bin\Debug\Geometria.pdb
+C:\Users\Nacho\source\repos\Objetos\Ejercicio 18\obj\Debug\Ejercicio 18.csproj.CopyComplete
+C:\Users\Nacho\source\repos\Objetos\Ejercicio 18\obj\Debug\Ejercicio 18.exe
+C:\Users\Nacho\source\repos\Objetos\Ejercicio 18\obj\Debug\Ejercicio 18.pdb

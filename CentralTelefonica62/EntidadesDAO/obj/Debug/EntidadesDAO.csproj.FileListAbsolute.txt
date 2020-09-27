@@ -1,0 +1,9 @@
+C:\Users\Nacho\source\repos\CentralTelefonica62\EntidadesDAO\bin\Debug\EntidadesDAO.dll
+C:\Users\Nacho\source\repos\CentralTelefonica62\EntidadesDAO\bin\Debug\EntidadesDAO.pdb
+C:\Users\Nacho\source\repos\CentralTelefonica62\EntidadesDAO\bin\Debug\CentralitaHerencia.dll
+C:\Users\Nacho\source\repos\CentralTelefonica62\EntidadesDAO\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Nacho\source\repos\CentralTelefonica62\EntidadesDAO\obj\Debug\EntidadesDAO.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\CentralTelefonica62\EntidadesDAO\obj\Debug\EntidadesDAO.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\CentralTelefonica62\EntidadesDAO\obj\Debug\EntidadesDAO.csproj.CopyComplete
+C:\Users\Nacho\source\repos\CentralTelefonica62\EntidadesDAO\obj\Debug\EntidadesDAO.dll
+C:\Users\Nacho\source\repos\CentralTelefonica62\EntidadesDAO\obj\Debug\EntidadesDAO.pdb

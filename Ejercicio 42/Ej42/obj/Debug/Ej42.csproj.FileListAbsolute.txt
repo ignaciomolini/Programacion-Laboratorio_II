@@ -1,0 +1,10 @@
+C:\Users\Nacho\source\repos\Ejercicio 42\Ej42\bin\Debug\Ej42.exe.config
+C:\Users\Nacho\source\repos\Ejercicio 42\Ej42\bin\Debug\Ej42.exe
+C:\Users\Nacho\source\repos\Ejercicio 42\Ej42\bin\Debug\Ej42.pdb
+C:\Users\Nacho\source\repos\Ejercicio 42\Ej42\bin\Debug\Entidades.dll
+C:\Users\Nacho\source\repos\Ejercicio 42\Ej42\bin\Debug\Entidades.pdb
+C:\Users\Nacho\source\repos\Ejercicio 42\Ej42\obj\Debug\Ej42.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\Ejercicio 42\Ej42\obj\Debug\Ej42.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Ejercicio 42\Ej42\obj\Debug\Ej42.csproj.CopyComplete
+C:\Users\Nacho\source\repos\Ejercicio 42\Ej42\obj\Debug\Ej42.exe
+C:\Users\Nacho\source\repos\Ejercicio 42\Ej42\obj\Debug\Ej42.pdb
